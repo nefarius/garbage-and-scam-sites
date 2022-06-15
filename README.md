@@ -1,0 +1,1 @@
+# garbage-and-scam-sites
