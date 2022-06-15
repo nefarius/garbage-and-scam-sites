@@ -21,3 +21,4 @@
 *://*.soft222.com/*
 *://*.updatestar.com/*
 *://*.onworks.net/software/
+*://*.majorgeeks.com/
